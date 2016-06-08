@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:40.842559
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:11
 #+TITLE: 文殊師利耶曼德迦呪法
 #+PROPERTY: CBETA_ID T21n1218
 #+PROPERTY: ID KR6j0445
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1218
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0445_T_001-0093c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1218¶
-
- 文殊師利耶曼德迦呪法¶
+No. 1218¶
+文殊師利耶曼德迦呪法¶
 ¶
 
 爾時世尊於王舍城內住竹林間。共文殊師¶
