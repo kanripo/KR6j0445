@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:40.842559
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:11
 #+TITLE: 文殊師利耶曼德迦呪法
 #+PROPERTY: CBETA_ID T21n1218
 #+PROPERTY: ID KR6j0445
